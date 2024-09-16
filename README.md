@@ -25,7 +25,7 @@ This is an Android Currency Converter application built using Kotlin. It allows 
 3. Sync the Gradle files to ensure all dependencies are installed.
 4. Add your API key in `MainActivity.kt`:
     ```kotlin
-private val apiKey = <your_api_key_here>
+    private val apiKey = <your_api_key_here>
 
 5. Build and run the project on an Android device or emulator.
 
