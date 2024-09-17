@@ -19,7 +19,7 @@ This is an Android Currency Converter application built using Kotlin. It allows 
 
 1. Clone this repository to your local machine:
    ```bash
-   git clone https://github.com/your-username/currency-converter-app.git
+   git clone https://github.com/DariusGovender/CurrencyConverterApp.git
 
 2. Open the project in Android Studio.
 3. Sync the Gradle files to ensure all dependencies are installed.
